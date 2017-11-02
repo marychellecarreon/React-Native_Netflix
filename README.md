@@ -12,6 +12,6 @@
     $ git clone https://github.com/marychellecarreon/React-Native_Netflix.git
  ```
 
- - Expo.io will send a link wherein you can view your app, click the link and you should see the output same as below:
+ - Expo.io will send a link in your email. To view your app, click the link and you should see the output same as below:
 
  ![23261797_10155026509205732_1838096149_o](https://user-images.githubusercontent.com/26729817/32313145-4a414d7e-bfdc-11e7-8607-922484940085.jpg)
