@@ -13,7 +13,7 @@
  ```
 
  - Clone the repository and open as new project in XDE.
-   Click 'SHARE' on XDE and input your email add so that you can open in your mobile.
+   Click "SHARE" on XDE and input your email add so that you can open in your mobile.
 
  - Expo.io will send a link wherein you can view your app, click the link and you should see the output same as below:
 
